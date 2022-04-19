@@ -17,7 +17,7 @@ public class SumOfNaturalNoUsingWhileloop
         while(x <= n)
         {
             sum = sum + x;
-            System.out.print(x+ "+");
+          //  System.out.print(x+ "+");
             x++;
         }
         System.out.println();
