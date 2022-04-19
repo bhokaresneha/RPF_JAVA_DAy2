@@ -16,7 +16,7 @@ public class SumOfNatualNoUsingForloop {
             for (int x = 1; x <= n; x++)
             {
                 sum = sum + x;
-                System.out.print(x+ "+");
+             //   System.out.print(x+ "+");
             }
             System.out.println("Sum Of Natural Numbers is =>"+sum);
 
